@@ -1,10 +1,9 @@
-CTYPE html>
+<DOCTYPE html>
 <html>
 <head>
   
-  <p style="color:red;">THIS IS MY SWIGGY A
+  <h1>THIS IS MY SWIGGY V.1.0</h1>
 
 </body
-
-
+</html>
 
