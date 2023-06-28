@@ -1,11 +1,10 @@
-<!DOCTYPE html>
+CTYPE html>
 <html>
 <head>
   
-  <p style="color:red;">THIS IS MY SWIGGY APP</p>
+  <p style="color:red;">THIS IS MY SWIGGY A
 
-</body>
-</html>
+</body
 
 
 
